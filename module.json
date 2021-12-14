@@ -1,0 +1,18 @@
+{
+	"disableAutoUpdate": false,
+	"name": "obs-utils",
+	"author": "Snug",
+	"description": "adds obs controls into tera and auto records dungeon runs",
+	"version": "1",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
+	"options": {
+		"guiName": "obs-utils",
+		"niceName": "obs-utils",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/tera-obs-utils/main/"
+	]
+}
