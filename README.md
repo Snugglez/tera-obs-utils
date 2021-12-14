@@ -14,7 +14,7 @@ From here on the mod will auto connect to obs websocket on mod load and will pri
 # Commands
 Note, if using the commands in the toolbox channel or `/8`, ignore the `!` prefix
 
-Command | Argument(s) | Exaobsle | Description
+Command | Argument(s) | Example | Description
 ---|---|---|---
 **!obs** | NONE | !obs| Turns the module either on or off (on by default)
 **!obs** | start | !obs start| Starts a recording (ends when changing zones unless entering a dungeon)
